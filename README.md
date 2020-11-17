@@ -1,4 +1,4 @@
-# maintenance-opti
+# maintenance-optimization
 Maintenance Optimization Problem
 
 A mixed integer optimization model for maintenance operations to minimize the Total Cost and obtain the optimal value of decision variables.
